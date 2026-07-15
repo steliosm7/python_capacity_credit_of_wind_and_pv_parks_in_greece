@@ -1,5 +1,7 @@
 # Estimating the Capacity Credit of Wind & PV Parks: Greek Market (2016-2024)
 
+**📢 Conference Presentation:** Accepted and presented at **ECESCON 15** (Electrical and Computer Engineering Students' Conference, 2025).
+
 ### 📖 Overview
 This repository presents a comprehensive capacity adequacy analysis of the Greek interconnected electricity system, evaluating the combined Capacity Credit of Wind and Solar (PV) generation over a 9-year period (2016-2024). 
 
